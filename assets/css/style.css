@@ -1112,12 +1112,12 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #f0f9fd;
+  /* background: #f0f9fd; */
   margin-top: 84px;
 }
 @media (max-width: 992px) {
   .breadcrumbs {
-    margin-top: 74px;
+    /* margin-top: 74px; */
   }
 }
 .breadcrumbs h2 {
